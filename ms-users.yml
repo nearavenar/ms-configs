@@ -15,7 +15,7 @@ spring:
 
     # (Opcional) Timezone handling for MySQL
     jackson:
-    time-zone: UTC
+      time-zone: UTC
 
 # (Opcional) Logging de SQL
 logging:
